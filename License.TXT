@@ -1,0 +1,1 @@
+My OWn License, that has no name and not registered in SPDX.
